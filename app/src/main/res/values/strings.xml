@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW3</string>
+    <string name="start">포켓몬 여행 시작!</string>
+    <string name="intro">20110118 이승원</string>
+    <string name="select">스타팅 포켓몬을 선택하세요!</string>
+    <string name="end">선택완료</string>
+
+</resources>
